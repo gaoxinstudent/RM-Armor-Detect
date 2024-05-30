@@ -13,8 +13,8 @@
  ***
  |硬件设备| 训练设备|推理设备|
  | - | - | - |
- | CPU | intel 13th i9 | Inter NUC 12th  |
- | GPU | NVIDA 3090 x 2 | Inter NUC 12th  |
+ | CPU | intel 13th i9 | Intel NUC 12th  |
+ | GPU | NVIDA 3090 x 2 | Intel NUC 12th  |
  | 环境配置 |训练设备 |推理设备 |
 | - | - | - |
 | OS | win11 | Ubuntu 22.04 |
