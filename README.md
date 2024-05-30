@@ -53,7 +53,7 @@
   ### Inference:
     ```python detect.py```
   ### Export:
-  - 导出Openvinoe文件：<br>
+  - 导出Openvino文件：<br>
   ```python export.py```
   ### Inference in Openvino
   暂未整理出
